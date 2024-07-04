@@ -57,16 +57,6 @@ Hey Athena is just getting started. We plan to build an **open-source community*
 - **Machine Learning:** we are looking into libraries like `Scikit <http://scikit-learn.org/stable/>`_ to help Athena learn how to respond better
 - **Natural Language Processing (NLP):** we are constantly working on improving NLP techniques with services like `wit.ai <https://wit.ai/>`_
 
-HTTP RESTful API
-----------------
-We are currently developing a cloud-hosted RESTful API (JSON) service.
-Users will be able to send HTTP requests and receive a voice/text JSON response.  
-
-**Current:** ``https://heyathena.com/api?q=test``
-
-**Future:** ``HTTP GET https://heyathena.com/api/{api_key}/q=list%20bitcoin%20price``  
-
-**Response:** ``{"success": true, "response": "359.7", "intent": "bitcoin"}``
 
 How can I make my own Athena?
 -----------------------------
