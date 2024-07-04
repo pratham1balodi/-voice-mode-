@@ -161,7 +161,7 @@ Common Errors
 | **Error:** "AVbin is required to decode compressed media"
 | **Fix:** Pyglet needs the avbin.dll file to be installed. On Windows, sometimes the file is wrongfully placed in System32 instead of SysWOW64.
 | 
-| Other errors can be found by searching the issues on our GitHub page.
+| Other errors can be found by searching the issues on GitHub page.
 
 .. |Travis Build| image:: https://travis-ci.org/rcbyron/hey-athena-client.svg?branch=demo-branch
    :target: https://travis-ci.org/hey-athena/hey-athena-client
