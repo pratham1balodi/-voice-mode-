@@ -10,10 +10,6 @@ Your personal voice assistant. Written in Python.
 
 "Hey Athena" is a 100% open-source, modular voice assistant framework. We aim to do everything that Siri, Cortana, and Echo can do - and more.
 
-| **Website:** https://heyathena.com
-| **Documentation:** https://heyathena.com/docs/
-| **Forum:** https://heyathena.com/forum/
-| **GitHub:** https://github.com/hey-athena/hey-athena-client
 
 Usage Examples:
 ---------------
